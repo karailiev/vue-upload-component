@@ -291,10 +291,12 @@ export default {
       this.watchActive(active)
     },
 
-    dropActive() {
+    dropActive(value) {
       if (this.$parent) {
         this.$parent.$forceUpdate()
       }
+	  
+	  this.$emit('drop-active', value)
     },
 
     drop(value) {
