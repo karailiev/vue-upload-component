@@ -1,7 +1,7 @@
 {
   "name": "@karailiev/vue-upload-component",
   "description": "This is a fork of the Vue.js file upload component by lian-yue. It was forked to add a custom event on file drag.",
-  "version": "2.8.21",
+  "version": "2.8.22",
   "author": "Valentin Karailiev",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server",

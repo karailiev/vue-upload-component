@@ -1,6 +1,6 @@
 /*!
  * Name: @karailiev/vue-upload-component
- * Version: 2.8.21
+ * Version: 2.8.22
  * Author: Valentin Karailiev
  */
 (function (global, factory) {
