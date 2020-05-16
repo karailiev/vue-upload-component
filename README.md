@@ -1,9 +1,11 @@
 # vue-upload-component
-[![npm](https://img.shields.io/npm/dm/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![npm](https://img.shields.io/npm/v/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![license](https://img.shields.io/github/license/lian-yue/vue-upload-component.svg?style=flat-square)](https://www.npmjs.com/package/vue-upload-component)  [![gzip](http://img.badgesize.io/lian-yue/vue-upload-component/master/dist/vue-upload-component.min.js.svg?compression=gzip&style=flat-square)](https://github.com/lian-yue/vue-upload-component)
+
 
 
 > Vue.js file upload component
 > The component is just a button
+>
+>  **This is a fork of the Vue.js file upload component by lian-yue. It was forked to add a custom event on file drag.**
 
 
   - [x] Multi-file upload
@@ -26,7 +28,7 @@ https://lian-yue.github.io/vue-upload-component/
 # Installation
 
 ``` bash
-npm install vue-upload-component --save
+npm install @karailiev/vue-upload-component --save
 ```
 
 # Documentation
@@ -61,7 +63,7 @@ https://lian-yue.github.io/vue-upload-component/#/zh-cn/
 # 安装
 
 ``` bash
-npm install vue-upload-component --save
+npm install @karailiev/vue-upload-component --save
 ```
 
 # 文档
@@ -72,4 +74,5 @@ https://lian-yue.github.io/vue-upload-component/#/zh-cn/documents
 
 # Special thanks (特别感谢)
 
+- [@lian-yue](https://github.com/lian-yue)
 - [@josec89](https://github.com/josec89)
